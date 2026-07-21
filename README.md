@@ -12,5 +12,8 @@
 ![](https://streak-stats.demolab.com/?user=https-Saifullah&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=https-Saifullah&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/https-Saifullah/https-Saifullah/refs/heads/output/github-contribution-grid-snake-dark.svg" width="90%"/> </div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=https-Saifullah&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
