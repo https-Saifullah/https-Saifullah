@@ -1,113 +1,16 @@
+#  About Me:
+💻 CS student building full-stack & AI-powered apps<br>🤖 Building end-to-end AI applications (LLMs, RAG pipelines)<br>🏗️ Deepening my understanding of backend architecture<br>☁️ Leveling up on Azure Cloud services<br>🌐 Contributing to open-source projects
 
-👋 Hey, I'm Saif
 
-Full Stack Developer · AI Engineer · Cloud Enthusiast · Problem Solver
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saifu_.rx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifhasan2055@gmail.com) 
 
-Building practical, real-world software — one clean commit at a time.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=https-Saifullah&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=https-Saifullah&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=https-Saifullah&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> <!-- Profile views & followers --> <!-- REPLACE: https-Saifullah -->
-
-Show Image Show Image
-
-<!-- REPLACE: social badge links -->
-
-Show Image Show Image Show Image
-
-</div> <br>
-🧑‍💻 About Me
-
-I'm a Computer Science student and full-stack developer with a growing focus on AI engineering and cloud-native systems. I enjoy turning ambiguous problems into well-architected products — from a Django API to a machine-learning pipeline deployed on Azure. I'm driven by curiosity and continuous learning, and I care about writing code that's readable, tested, and built to last. Outside of solo projects, I like collaborating with other developers, contributing to open source, and taking on leadership roles that push me to grow. Always looking for the next hard problem to solve.
-
-<br>
-🚀 Current Focus
-🤖 Building end-to-end AI applications (LLMs, RAG pipelines)
-🏗️ Deepening my understanding of backend architecture
-☁️ Leveling up on Azure Cloud services
-🌐 Contributing to open-source projects
-📐 Practicing system design for scalable applications
-<br>
-🛠️ Tech Stack
-
-Languages Show Image Show Image Show Image Show Image Show Image
-
-Frontend Show Image Show Image Show Image
-
-Backend Show Image Show Image Show Image Show Image
-
-AI / Machine Learning Show Image Show Image Show Image Show Image
-
-Cloud & DevOps Show Image Show Image Show Image Show Image
-
-Databases Show Image Show Image Show Image
-
-Tools & Design Show Image Show Image Show Image
-
-<br>
-🌟 Featured Projects
-<!-- REPLACE: repo/demo links marked with # -->
-Project	Description	Tech Stack	Status	Links
-📄 AskMyDocs	AI-powered document Q&A tool that lets users chat with their own PDFs and files	Python LangChain FastAPI React	✅ Active	Repo · Demo
-🛣️ SafeRoute	Route-planning app that suggests safer paths using real-time and historical data	React Node.js MongoDB Maps API	✅ Active	Repo · Demo
-🫁 Asthma Prediction (XAI)	Explainable AI model predicting asthma risk from health data, with interpretable outputs	Python scikit-learn SHAP Streamlit	✅ Active	Repo · Demo
-<br>
-📊 GitHub Analytics
-<!-- REPLACE: https-Saifullah everywhere below --> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=https-Saifullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https-Saifullah&layout=compact&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=https-Saifullah&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=https-Saifullah&theme=tokyo-night&hide_border=true" width="95%"/> <!-- Snake contribution animation — generated by the GitHub Action in .github/workflows/snake.yml (see setup note below) --> <img src="https://raw.githubusercontent.com/https-Saifullah/https-Saifullah/output/github-contribution-grid-snake-dark.svg" width="95%"/> </div> <br>
-🧭 Experience Highlights
-text
-2024 — Present   🤖 AI Projects — building LLM & RAG-based applications
-2024 — Present   ☁️ Cloud Development — deploying services on Azure
-2023 — Present   🎨 Frontend Development — React / Next.js production apps
-2023 — Present   ⚙️ Backend Development — REST APIs with Django & FastAPI
-2023 — Present   🏫 College Leadership — leading a technical student community
-2023 — Present   🎤 Event Coordination — organizing tech talks & workshops
-2022 — Present   🏆 Hackathons — building under pressure, shipping fast
-2022 — Present   🌐 Open Source Contributions — issues, PRs, and docs
-<br>
-🏆 Achievements
-🛠️ Shipped multiple full-stack projects from idea to deployment
-☁️ Hands-on experience with Azure cloud technologies
-🤖 Built and deployed machine learning models end-to-end
-🧑‍🤝‍🧑 Led teams and mentored peers in a college tech community
-🎤 Organized and spoke at technical events and workshops
-📚 Committed to continuous learning across the stack
-🌐 Active contributor to open-source projects
-<br> <details> <summary>📚 <b>Currently Learning</b></summary> <br>
-Advanced Backend Architecture
-System Design
-Docker & Kubernetes
-Azure Services
-CI/CD Pipelines
-Large Language Models (LLMs)
-Retrieval-Augmented Generation (RAG)
-Microservices
-API Security
-</details> <br>
-🤝 Open Source
-
-I'm always open to:
-
-🔧 Collaborating on interesting projects
-💡 Suggesting or building new features
-🏆 Teaming up for hackathons
-📖 Learning opportunities of any kind
-
-Got something interesting? Feel free to reach out.
-
-<br>
-🔗 Connect With Me
-<!-- REPLACE: every # with your real profile URL --> <div align="center">
-
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-</div> <br>
-⚡ Fun Facts
-☕ Powered by coffee and clean commit messages
-🚀 Love building practical AI applications
-🌍 Always exploring new technologies
-🎯 Learning something new every week
-🤝 Enjoy collaborating with other developers
-<br> <div align="center">
-
-"Code is like humor. When you have to explain it, it's bad."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/> </div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=https-Saifullah&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
