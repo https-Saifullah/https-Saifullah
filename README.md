@@ -1,5 +1,5 @@
 #  About Me:
-💻 CS student building full-stack & AI-powered apps<br>🤖 Building end-to-end AI applications (LLMs, RAG pipelines)<br>🏗️ Deepening my understanding of backend architecture<br>☁️ Leveling up on Azure Cloud services<br>🌐 Contributing to open-source projects
+💻 CS student building full-stack & AI-powered apps<br>🤖 Building end-to-end AI applications <br>🏗️ Deepening my understanding of backend architecture<br>☁️ Leveling up on Azure Cloud services<br>🌐 Contributing to open-source projects
 
 
 ## 🌐 Socials:
